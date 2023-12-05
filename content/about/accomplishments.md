@@ -23,6 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://badgr.com/public/assertions/BzyiDc5kTLGwjuwBgR2cQA?identity__email=a.kassas@gmail.com
+    date_end: ''
+    date_start: '2020-01-01'
+    description: ''
+    organization: DAMA
+    organization_url: https://www.dama.org
+    title: Certified Data Management Professional Certification - Associate Level
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2020-01-01'
+    description: ''
+    organization: TDWI
+    organization_url: https://www.tdwi.org
+    title: Certified Business Intelligence Professional
+    url: ''
   - certificate_url: https://www.credly.com/badges/42b6635b-1933-4ae0-aafe-1e61fb5f9da1
     date_end: ''
     date_start: '2020-01-01'
