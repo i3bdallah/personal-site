@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.credly.com/badges/42b6635b-1933-4ae0-aafe-1e61fb5f9da1
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: ''
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: Microsoft
+    organization_url: https://www.microsoft.com
+    title: "Microsoft Certified: Power BI Data Analyst Associate"
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.credly.com/badges/0f3f38a9-cbce-46f4-acf7-31569d61447d
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: ''
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Tableau
+    organization_url: https://www.tableau.com
+    title: Tableau Desktop Specialist
+    url: ''
+  - certificate_url: https://www.credly.com/badges/9bd2038b-1552-4f2d-8531-0de0a47641ef
+    date_end: ''
+    date_start: ''
+    description: ''
+    organization: PMI
+    organization_url: https://www.pmi.org
+    title: Project Management Professional (PMP)®
     url: ''
 
 design:

@@ -22,28 +22,51 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Senior Analytics Engineer
+    company: Avenue One
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: New York, United States (Remote)
+    date_start: '2022-12-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Worked on building ad-hoc reports and dashboards analyzing the real estate process at Avenue One from underwriting to property management.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Senior Data Engineer
+    company: BizzyCar
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: United States (Remote)
+    date_start: '2022-02-01'
+    date_end: '2022-11-31'
+    description: "Built the complete analytics landscape on AWS including : data pipelines, data infrastructure, dashboards and reports."
+
+  - title: Senior BI Developer
+    company: FGF Brands
+    company_url: ''
+    company_logo: org-x
+    location: Canada
+    date_start: '2021-06-01'
+    date_end: '2022-02-01'
+    description: Worked on developing ETL scripts, data marts and Power BI dashboards for the business.
+
+  - title: Senior BI Developer
+    company: Tamkeen Technologies
+    company_url: ''
+    company_logo: org-x
+    location: Saudi Arabia
+    date_start: '2019-08-01'
+    date_end: '2021-05-01'
+    description: Worked on developing ETL scripts, data marts and Power BI dashboards for the business.
+
+  - title: Senior BI Consultant
+    company: SABIC
+    company_url: ''
+    company_logo: org-x
+    location: Saudi Arabia
+    date_start: '2011-10-24'
+    date_end: '2019-07-01'
+    description: "Worked on several areas in the domain of data analytics including : data migration, data quality, data transformation, data automation and data dashboards"
 
 design:
   columns: '1'
