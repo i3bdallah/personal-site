@@ -19,6 +19,6 @@ author: admin
 ---
 
 Data Engineering | Analytics | Business Intelligence
-{style="font-size: 1.2rem; background: #2E2BCC; background: linear-gradient(to right, #2E2BCC 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background: #FFA73D; background: linear-gradient(to right, #FFA73D 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below 😊
