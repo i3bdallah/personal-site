@@ -38,7 +38,7 @@ experience:
     company_logo: org-x
     location: United States (Remote)
     date_start: '2022-02-01'
-    date_end: '2022-11-31'
+    date_end: '2022-11-01'
     description: Built the complete analytics landscape on AWS including  data pipelines, data infrastructure, dashboards and reports.
 
   - title: Senior BI Developer
