@@ -44,10 +44,10 @@ bio: My  interests include data engineering, data visualization and AI.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/3bdallah
+    link: 'mailto:a.kassas@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  - icon: linkedin
+    icon_pack: fab
+    link: https://linkedin.com/3bdallah
 #  - icon: instagram
 #   icon_pack: fab
 #    link: https://instagram.com/geocushen
