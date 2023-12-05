@@ -25,7 +25,7 @@ experience:
   - title: Senior Analytics Engineer
     company: Avenue One
     company_url: ''
-    company_logo: org-gc
+    company_logo: a1_logo
     location: New York, United States (Remote)
     date_start: '2022-12-01'
     date_end: ''
