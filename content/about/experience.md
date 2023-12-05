@@ -39,7 +39,7 @@ experience:
     location: United States (Remote)
     date_start: '2022-02-01'
     date_end: '2022-11-31'
-    description: "Built the complete analytics landscape on AWS including : data pipelines, data infrastructure, dashboards and reports."
+    description: Built the complete analytics landscape on AWS including  data pipelines, data infrastructure, dashboards and reports.
 
   - title: Senior BI Developer
     company: FGF Brands
@@ -66,7 +66,7 @@ experience:
     location: Saudi Arabia
     date_start: '2011-10-24'
     date_end: '2019-07-01'
-    description: "Worked on several areas in the domain of data analytics including : data migration, data quality, data transformation, data automation and data dashboards"
+    description: Worked on several areas in the domain of data analytics including data migration, data quality, data transformation, data automation and data dashboards
 
 design:
   columns: '1'

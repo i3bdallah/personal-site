@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Microsoft
     organization_url: https://www.microsoft.com
-    title: "Microsoft Certified: Power BI Data Analyst Associate"
+    title: Microsoft Certified Power BI Data Analyst Associate
     url: ''
   - certificate_url: https://www.credly.com/badges/0f3f38a9-cbce-46f4-acf7-31569d61447d
     date_end: ''
@@ -45,7 +45,7 @@ item:
     description: ''
     organization: PMI
     organization_url: https://www.pmi.org
-    title: Project Management Professional (PMP)®
+    title: Project Management Professional (PMP)
     url: ''
 
 design:
