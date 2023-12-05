@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.credly.com/badges/42b6635b-1933-4ae0-aafe-1e61fb5f9da1
     date_end: ''
-    date_start: ''
+    date_start: '2020-01-01'
     description: ''
     organization: Microsoft
     organization_url: https://www.microsoft.com
@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: https://www.credly.com/badges/0f3f38a9-cbce-46f4-acf7-31569d61447d
     date_end: ''
-    date_start: ''
+    date_start: '2020-01-01'
     description: ''
     organization: Tableau
     organization_url: https://www.tableau.com
@@ -41,7 +41,7 @@ item:
     url: ''
   - certificate_url: https://www.credly.com/badges/9bd2038b-1552-4f2d-8531-0de0a47641ef
     date_end: ''
-    date_start: ''
+    date_start: '2020-01-01'
     description: ''
     organization: PMI
     organization_url: https://www.pmi.org
