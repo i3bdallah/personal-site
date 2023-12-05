@@ -25,7 +25,7 @@ experience:
   - title: MSc Computer Science
     company: King Abdullah University of Science and Technology
     company_url: 'www.kaust.edu.sa'
-    company_logo: org-x
+    company_logo: kaust_logo
     location: Saudi Arabia
     date_start: '2010-09-01'
     date_end: '2011-09-01'
@@ -36,7 +36,7 @@ experience:
   - title: BSc Computer Engineering
     company: King Fahd University of Petroleum & Minerals
     company_url: 'wwww.kfupm.edu.sa'
-    company_logo: org-x
+    company_logo: kfupm_logo
     location: Saudi Arabia
     date_start: '2006-02-01'
     date_end: '2010-08-01'

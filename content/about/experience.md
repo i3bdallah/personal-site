@@ -35,7 +35,7 @@ experience:
   - title: Senior Data Engineer
     company: BizzyCar
     company_url: ''
-    company_logo: org-x
+    company_logo: bizzycar_logo
     location: United States (Remote)
     date_start: '2022-02-01'
     date_end: '2022-11-01'
@@ -44,7 +44,7 @@ experience:
   - title: Senior BI Developer
     company: FGF Brands
     company_url: ''
-    company_logo: org-x
+    company_logo: fgf_logo
     location: Canada
     date_start: '2021-06-01'
     date_end: '2022-02-01'
@@ -53,7 +53,7 @@ experience:
   - title: Senior BI Developer
     company: Tamkeen Technologies
     company_url: ''
-    company_logo: org-x
+    company_logo: tamkeen_logo
     location: Saudi Arabia
     date_start: '2019-08-01'
     date_end: '2021-05-01'
@@ -62,7 +62,7 @@ experience:
   - title: Senior BI Consultant
     company: SABIC
     company_url: ''
-    company_logo: org-x
+    company_logo: sabic_logo
     location: Saudi Arabia
     date_start: '2011-10-24'
     date_end: '2019-07-01'
