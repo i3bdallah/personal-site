@@ -47,14 +47,14 @@ social:
     link: 'mailto:a.kassas@gmail.com' # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/3bdallah
+    link: https://linkedin.com/in/3bdallah
 #  - icon: instagram
 #   icon_pack: fab
 #    link: https://instagram.com/geocushen
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/i3bdallah
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
