@@ -30,8 +30,7 @@ experience:
     date_start: '2010-09-01'
     date_end: '2011-09-01'
     description: |2-
-        * Specialized in Data Mining & AI
-        * 
+        * Specialized in Data Mining & AI 
 
   - title: BSc Computer Engineering
     company: King Fahd University of Petroleum & Minerals
@@ -40,7 +39,8 @@ experience:
     location: Saudi Arabia
     date_start: '2006-02-01'
     date_end: '2010-08-01'
-    description: Graduated with distinction
+    description: |2-
+      * Graduated with distinction
 
 design:
   columns: '1'
