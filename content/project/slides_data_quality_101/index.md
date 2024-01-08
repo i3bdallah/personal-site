@@ -1,8 +1,8 @@
 ---
-title: Slides | Intro to Process Mining
-summary: Learn the basics of Process Mining, a new way to look at data
+title: Slides | Intro to Data Quality
+summary: Learn the basics of how to implement Data Quality in your organization
 tags:
   - slides
 date: 2023-12-31
-external_link: https://bit.ly/ProcessMiningSlides
+external_link: https://bit.ly/DataQualitySlides
 ---
