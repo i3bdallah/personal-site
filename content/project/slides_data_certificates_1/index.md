@@ -1,5 +1,5 @@
 ---
-title: Slides | Data Certificates Overview - Part 1 (Arabic)
+title: Youtube | Data Certificates Overview - Part 1 (Arabic)
 summary: Overview about data certificates
 tags:
   - videos
