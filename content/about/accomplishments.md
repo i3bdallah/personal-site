@@ -23,6 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://www.credly.com/badges/10dcb660-0c28-4c26-a6dc-ef230f3ccef3
+    date_end: ''
+    date_start: '2024-12-01'
+    description: ''
+    organization: Google
+    organization_url: https://www.google.com
+    title: Professional Data Engineer Certification
+    url: ''
+  - certificate_url: https://www.dropbox.com/scl/fi/poahbieoihyzo4a4f8nm8/TOGAF_ABDULLAH_ALKASSAS.pdf?rlkey=ejmughldhevfq3plgu9scu3ym&e=1&dl=0
+    date_end: ''
+    date_start: '2020-03-01'
+    description: ''
+    organization: The Open Group
+    organization_url: https://www.opengroup.org/
+    title: TOGAF 9 Certified
+    url: ''
   - certificate_url: https://badgr.com/public/assertions/BzyiDc5kTLGwjuwBgR2cQA?identity__email=a.kassas@gmail.com
     date_end: ''
     date_start: '2020-01-01'

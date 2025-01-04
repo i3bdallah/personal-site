@@ -66,6 +66,6 @@ social:
 #email: ""
 ---
 
-Abdullah is a data analytics expert with interests in the areas of data engineering, business intelligence and AI.
+Abdullah is a data architecture and engineering expert with interests in the areas of analytics and GenAI.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

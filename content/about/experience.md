@@ -38,7 +38,7 @@ experience:
     company_logo: a1_logo
     location: New York, United States (Remote)
     date_start: '2022-12-01'
-    date_end: ''
+    date_end: '2023-11-01'
     description: |2-
         Worked on building ad-hoc reports and dashboards analyzing the real estate process at Avenue One from underwriting to property management.
 
