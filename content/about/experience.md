@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Lead Data Engineer
+    company: Gore Mutual Insurance
+    company_url: ''
+    company_logo: gore_logo
+    location: Cambridge, Canada
+    date_start: '2024-02-01'
+    date_end: ''
+    description: |2-
+        Architected and operated a modern cloud data lakehouse platform built on Azure and Databricks.
+
   - title: Senior Analytics Engineer
     company: Avenue One
     company_url: ''
